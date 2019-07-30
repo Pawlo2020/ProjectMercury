@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+    <CapsuleParts>
+        <Capsule model="Basic-Mk1Cap" fuel="100" force="50" price="0" />
+    </CapsuleParts>
+
+
+    <MiddleParts>
+        <Middle model="Basic-Mk1Mid" fuel="100" force="50" price="0" />
+    </MiddleParts>
+
+
+    <EngineParts>
+        <Engine model="Basic-Mk1Eng" fuel="100" force="50" price="0"/>
+    </EngineParts>
+
+
+    <Wings>
+        <Wing model="Basic-Mk1Wing" rotation="0.5f" price="0" />
+    </Wings>
+</Database>

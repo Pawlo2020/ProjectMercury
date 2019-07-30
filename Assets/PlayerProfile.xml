@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Profile money="0" prestige="0">
+
+    <Rockets>
+        <R1>
+            <Capsule id="Basic-Mk1Cap" />
+            <Middle id="Basic-Mk1Mid" />
+            <Engine id="Basic-Mk1Eng" />
+            <Wings id="Basic-Mk1Wing" />
+        </R1>
+
+
+        <R2>
+            <Capsule id="Basic-Mk1Cap" />
+            <Middle id="Basic-Mk1Mid" />
+            <Engine id="Basic-Mk1Eng" />
+            <Wings id="Basic-Mk1Wing" />
+        </R2>
+
+
+        <R3>    
+            <Capsule id="Basic-Mk1Cap" />
+            <Middle id="Basic-Mk1Mid" />
+            <Engine id="Basic-Mk1Eng" />
+            <Wings id="Basic-Mk1Wing" />
+        </R3>
+
+    </Rockets>
+
+
+    <UnlockedParts>
+        <Part id="Basic-Mk1Cap" />
+        <Part id="Basic-Mk1Mid" />
+        <Part id="Basic-Mk1Eng" />
+        <Part id="Basic-Mk1Wing" />
+    </UnlockedParts>
+
+</Profile>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+    <CapsuleParts>
+        <Capsule model="Basic-Mk1Cap" fuel="150" force="8" price="0" />
+        <Capsule model="RockwellCap" fuel="100000" force="10" price="100" />
+        <Capsule model="NeptuneCap" fuel="150" force="20" price="100" />
+    </CapsuleParts>
+
+
+    <MiddleParts>
+        <Middle model="Basic-Mk1Mid" fuel="120" force="20" price="0" />
+        <Middle model="RockwellMid" fuel="100" force="50" price="100" />
+        <Middle model="NeptuneMid" fuel="300" force="50" price="100" />
+    </MiddleParts>
+
+
+    <EngineParts>
+        <Engine model="Basic-Mk1Eng" fuel="300" force="40" price="0"/>
+        <Engine model="RockwellEng" fuel="100" force="40" price="150"/>
+        <Engine model="NeptuneEng" fuel="700" force="40" price="150"/>
+    </EngineParts>
+
+
+    <Wings>
+        <Wing model="Basic-Mk1Wing" rotation="0,5" price="0" />
+        <Wing model="RockwellWin" rotation="2" price="50" />
+        <Wing model="NeptuneWin" rotation="4" price="50" />
+    </Wings>
+</Database>
