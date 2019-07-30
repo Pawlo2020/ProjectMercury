@@ -1,4 +1,4 @@
 # ProjectMercury
 An ultimate spaceship simulator
 
-Featuring realistic physics
+Do you have what it takes to reach space?
